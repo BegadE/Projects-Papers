@@ -1,5 +1,5 @@
 # Undergraduate University Coursework
-In this folder, I show case some of the projects and coursework for my undergraduate studies in Khalifa University.
+On this page, I showcase projects and coursework I did in my undergraduate studies at Khalifa University.
 
 ## Table of Contents
 * Senior Project
