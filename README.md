@@ -1,1 +1,1 @@
-This folder includes some of the academic projects I worked on during my undergraduate studies in Khalifa University.
+In this folder, I show case some of the projects and coursework for my undergraduate studies in Khalifa University.
